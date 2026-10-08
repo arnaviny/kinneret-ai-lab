@@ -1,0 +1,1 @@
+Kinneret AI Lab V6 — open index.html in Chrome, press F for fullscreen. Presenter: PageDown selects next question in Q&A index, PageUp opens selected. In answer, either button returns to index. Q opens index from anywhere. Pitch uses PageDown/PageUp for beats. Laser button is independent. All assets are from V5.
